@@ -1,0 +1,15 @@
+.box {
+  background-color: red;
+}
+
+div:first-child {
+  background-color: blue;
+}
+
+div:last-child {
+  background-color: green;
+}
+
+a:hover {
+  color: red;
+}
